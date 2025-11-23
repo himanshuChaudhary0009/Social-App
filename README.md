@@ -64,23 +64,28 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone <>
-
+```
 
 2️⃣ Navigate into the project
+```bash
 cd social-react-app
+```
 
 3️⃣ Install dependencies
+```bash
 npm install
+```
 
 4️⃣ Start development server
+```bash
 npm run dev
-
+```
 
 Your app will run on:
 👉 http://localhost:5173
-```
 
-🎯 Purpose of This Project
+
+### 🎯 Purpose of This Project
 
 This app was created to practice and demonstrate:
 
