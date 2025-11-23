@@ -78,6 +78,7 @@ npm run dev
 
 Your app will run on:
 👉 http://localhost:5173
+```
 
 🎯 Purpose of This Project
 
